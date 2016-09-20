@@ -11,5 +11,6 @@ public class HelloUniverse {
 	
 	public static void HiThere(){
 		System.out.println("Planet Tellus22 is now ours, resistance is futile !!!");
+		System.out.println("Take me to your lizard, now !!");
 	}
 }
